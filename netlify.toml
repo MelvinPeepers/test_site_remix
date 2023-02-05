@@ -16,7 +16,7 @@
   [headers.values]
     "Cache-Control" = "public, max-age=31536000, s-maxage=31536000"
 
+[[plugins]]
 
-
-[[plugins.inputs.audits]]
-  url = "https://remix.mel.quest/"
+  [[plugins.inputs.audits]]
+    url = "https://remix.mel.quest/"
