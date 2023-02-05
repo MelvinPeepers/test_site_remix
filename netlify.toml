@@ -18,5 +18,5 @@
 
 
 
-  [[plugins.inputs.audits]]
-    url = "https://remix.mel.quest/"
+[[plugins.inputs.audits]]
+  url = "https://remix.mel.quest/"
