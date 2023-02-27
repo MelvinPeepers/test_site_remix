@@ -20,4 +20,4 @@
   package = "@netlify/plugin-lighthouse"
   
   [[plugins.inputs.audits]]
-    url = "https://www.mel.quest"
+    url = "https://remix.mel.quest"
